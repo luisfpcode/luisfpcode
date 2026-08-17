@@ -19,14 +19,14 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                     CNX CODE // CORE                        ║
+║                     CNX CODE // CORE                         ║
 ╠══════════════════════════════════════════════════════════════╣
-║ STATUS        : ONLINE                                      ║
-║ OPERATOR      : Luis Felipe                                 ║
-║ ROLE          : Software Developer                          ║
-║ ORGANIZATION  : CNX Code                                    ║
-║ SPECIALTY     : Web • Automation • Discord • Systems        ║
-║ ENVIRONMENT   : Windows / Linux / VS Code                   ║
+║ STATUS        : ONLINE                                       ║
+║ OPERATOR      : Luis Felipe                                  ║
+║ ROLE          : Software Developer                           ║
+║ ORGANIZATION  : CNX Code                                     ║
+║ SPECIALTY     : Web • Automation • Discord • Systems         ║
+║ ENVIRONMENT   : Windows / Linux / VS Code                    ║
 ║ MODE          : BUILDING THE FUTURE                          ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
