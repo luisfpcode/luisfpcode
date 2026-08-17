@@ -237,7 +237,7 @@ $ goals --current
 │                                                              │
 │       "THE FUTURE IS BUILT, NOT PREDICTED."                  │
 │                                                              │
-│                 CNX CODE // SYSTEM END                      │
+│                 CNX CODE // SYSTEM END                       │
 │                                                              │
 ╰──────────────────────────────────────────────────────────────╯
 ```
